@@ -1,5 +1,5 @@
 {
-  "name": "todoapi-t18",
+  "name": "dicasapi",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeoCosta-dev/ToDoAPI-T18.git"
+    "url": "git+https://github.com/gnlto/4aprintm2.git"
   },
-  "author": "LeoCosta-dev",
+  "author": "Gustavo Pereira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LeoCosta-dev/ToDoAPI-T18/issues"
+    "url": "https://github.com/gnlto/4aprintm2/issues"
   },
-  "homepage": "https://github.com/LeoCosta-dev/ToDoAPI-T18#readme",
+  "homepage": "https://github.com/gnlto/4aprintm2#readme",
   "type": "module",
   "dependencies": {
     "dotenv": "^16.0.1",
